@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e8571f7fbe5f0674f8d9c3e0ddc8b1a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ColorController: {instanceID: 0}
+  - PieceModel: {instanceID: 0}
+  - Animator: {instanceID: 0}
+  - UpgradePiecePrefab: {instanceID: 0}
+  - SaveData: {fileID: 11400000, guid: 3599a41e806da784f843da19fac9c853, type: 2}
+  - AudioSource: {instanceID: 0}
+  - Thud: {fileID: 8300000, guid: e0aaef981c145a44bb81930bbf440159, type: 3}
+  - Swish: {fileID: 8300000, guid: ebaeff339e7a35948b66dd1cd2ecc4f2, type: 3}
+  - Nope: {fileID: 8300000, guid: 5f1167c156e532440a26763575c41349, type: 3}
+  - Rumble: {fileID: 8300000, guid: aa70b25961e249345bbbe6ea964899da, type: 3}
+  - RumblingStop: {fileID: 8300000, guid: 473320320e6483f4da880f84e5ddd16f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

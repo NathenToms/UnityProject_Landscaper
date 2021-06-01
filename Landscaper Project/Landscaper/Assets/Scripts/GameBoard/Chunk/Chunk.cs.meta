@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 25dd86cccf73a144d801081f3cd25988
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Rumbling: {instanceID: 0}
+  - SaveData: {fileID: 11400000, guid: 3599a41e806da784f843da19fac9c853, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

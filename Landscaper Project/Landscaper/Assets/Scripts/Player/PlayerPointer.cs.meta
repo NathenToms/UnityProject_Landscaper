@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d16742b0a85d4144eb2fe6c59dd70e58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _pointer: {instanceID: 0}
+  - GameManager: {instanceID: 0}
+  - PieceManager: {instanceID: 0}
+  - SaveData: {fileID: 11400000, guid: 3599a41e806da784f843da19fac9c853, type: 2}
+  - AudioSource: {instanceID: 0}
+  - DeSelect: {instanceID: 0}
+  - Nope: {fileID: 8300000, guid: 5f1167c156e532440a26763575c41349, type: 3}
+  - PointerHologramMat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
